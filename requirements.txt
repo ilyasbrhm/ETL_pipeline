@@ -1,0 +1,10 @@
+pandas~=2.2
+requests~=2.32
+beautifulsoup4~=4.12
+google-auth~=2.36
+google-api-python-client~=2.152
+gspread~=5.11
+gspread-dataframe~=3.3
+oauth2client~=4.1
+pytest~=8.1
+pytest-cov~=6.0
